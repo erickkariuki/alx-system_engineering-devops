@@ -1,2 +1,1 @@
-#!/bin/bash
-       
+shell input and output redirection filters
